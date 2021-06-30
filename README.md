@@ -5,20 +5,14 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Start VuePress dev server
+
 ```
-npm run serve
+npm run docs:dev
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Generate js-docs
 
-### Lints and fixes files
 ```
-npm run lint
+npm run docgen
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
