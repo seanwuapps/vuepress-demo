@@ -11,6 +11,7 @@
 
 <script>
 export default {
+  name: "CanberraJs",
   props: {
     /**
      * Pass text string to display at the bottom of the JS logo
@@ -23,6 +24,9 @@ export default {
   },
   methods: {
     handleClick() {
+      /**
+       * Emits click event
+       */
       this.$emit("click");
     },
   },

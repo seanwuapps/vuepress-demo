@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import CanberraJs from "./components/CanberraJs.vue";
+import CanberraJs from "@/components/CanberraJs/CanberraJs.vue";
 
 export default {
   name: "App",
