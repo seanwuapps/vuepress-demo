@@ -1,7 +1,7 @@
 module.exports = {
   title: "My awesome docs site",
   description: "Just playing around",
-  /*
+
   // @see https://vuepress.vuejs.org/theme/default-theme-config.html
   themeConfig: {
     ////
@@ -22,7 +22,7 @@ module.exports = {
     // simple sidebar
     // sidebar: "auto",
   },
-  */
+
   plugins: [
     // @see https://www.npmjs.com/package/vuepress-auto-sidebar
     ["vuepress-plugin-auto-sidebar"],

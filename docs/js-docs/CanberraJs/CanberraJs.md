@@ -14,6 +14,6 @@
 
 ---
 
-# Canberra js component
+## Description in readme.md
 
 description goes here
